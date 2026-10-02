@@ -1,0 +1,148 @@
+# Java Bank Account System
+
+A simple Java-based Bank Account Management System developed to demonstrate the practical implementation of Object-Oriented Programming (OOP) concepts.
+
+## 📌 Project Overview
+
+The Java Bank Account System is a console-based application that simulates basic banking operations. Users can create and manage bank accounts, deposit money, withdraw money, and check account information.
+
+This project was developed as an educational project to practice Java programming and Object-Oriented Programming concepts.
+
+## ✨ Features
+
+* Create bank accounts
+* Store customer/account information
+* Deposit money
+* Withdraw money
+* Check account balance
+* Display account information
+* Handle invalid operations
+* Exception handling
+* Simple console-based interface
+
+## 🛠️ Technologies Used
+
+* **Programming Language:** Java
+* **Concept:** Object-Oriented Programming
+* **Application Type:** Console Application
+* **Exception Handling:** Java Exception Handling
+
+## 📚 OOP Concepts Used
+
+This project demonstrates the following OOP concepts:
+
+* **Encapsulation** — Protecting account data using classes and access modifiers
+* **Inheritance** — Reusing common properties and methods between classes
+* **Polymorphism** — Using different implementations through common methods
+* **Abstraction** — Hiding unnecessary implementation details
+* **Constructors** — Initializing objects
+* **`super` Keyword** — Accessing parent class members
+* **Exception Handling** — Handling invalid operations and inputs
+
+## 🏦 Main Operations
+
+### 1. Create Account
+
+Users can create a new bank account by providing the required account and customer information.
+
+### 2. Deposit Money
+
+Users can deposit money into their bank account.
+
+### 3. Withdraw Money
+
+Users can withdraw money if sufficient balance is available.
+
+### 4. Check Balance
+
+Users can view their current account balance.
+
+### 5. Account Information
+
+Users can display their account details.
+
+## 📂 Project Structure
+
+```text
+Java-Bank-Account-System/
+│
+├── src/
+│   ├── Main.java
+│   ├── BankAccount.java
+│   ├── SavingsAccount.java
+│   ├── CurrentAccount.java
+│   ├── Transaction.java
+│   └── ...
+│
+├── README.md
+├── .gitignore
+└── LICENSE
+```
+
+> The actual file structure may vary depending on the implementation.
+
+## ▶️ How to Run
+
+### Step 1: Install Java JDK
+
+Make sure Java JDK is installed on your computer.
+
+Check Java:
+
+```bash
+java -version
+```
+
+Check the Java compiler:
+
+```bash
+javac -version
+```
+
+### Step 2: Clone the Repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/Java-Bank-Account-System.git
+```
+
+### Step 3: Open the Project
+
+Open the project using any Java IDE, such as:
+
+* IntelliJ IDEA
+* NetBeans
+* Eclipse
+* VS Code
+
+### Step 4: Run the Program
+
+Run the `Main.java` file.
+
+## 🎯 Project Objective
+
+The main objective of this project is to develop a basic banking system while applying Java Object-Oriented Programming concepts to a real-world problem.
+
+## 🔮 Future Improvements
+
+The project can be further improved by adding:
+
+* User login and authentication
+* Database connectivity
+* Transaction history
+* Money transfer between accounts
+* GUI interface
+* Admin panel
+* Account search functionality
+* File/database data storage
+
+## 👨‍💻 Author
+
+**MD Arafat Hossen Razu**
+
+Computer Science and Engineering (CSE)
+
+Uttara University
+
+## 📄 License
+
+This project is created for educational purposes.
